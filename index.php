@@ -6,7 +6,23 @@
     <title>Document</title>
  </head>
  <body>
-    asdasdasdasd
+    <div class="container">
+    <div class="logo"></div>
+    <div class="nav"></div>
+    <div class="baner"></div>
+    <div class="main">
+
+        <div class="rekomendowane">
+            <a href=""> <img src="" alt=""></a>
+            <a href=""><img src="" alt=""></a>
+        </div>
+    </div>
+
+    <div class="stopka">
+        <div class="Autor">Autor: Michał Basiak</div>
+        
+    </div>
+    </div>
  </body>
  </html>
 
